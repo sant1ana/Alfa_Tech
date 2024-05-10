@@ -34,7 +34,7 @@ O site tem navegação entre as páginas (Home e Tabela de Preços) que foi real
 
  ## :link: Acesso ao projeto
 
- Você pode acessar o projeto final clicando aqui: https://sant1ana.github.io/Alfa_Tech/Home.html#
+ Você pode acessar o projeto final clicando aqui: https://joyful-crepe-86f740.netlify.app
 
 
 
